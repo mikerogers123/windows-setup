@@ -3,5 +3,5 @@ choco install git
 choco install poshgit
 choco install nodejs
 refreshenv
-npm install
 npm install -g @angular/cli
+New-Item -ItemType directory -Path C:\repos
