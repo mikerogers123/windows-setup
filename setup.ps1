@@ -5,3 +5,4 @@ choco install nodejs
 refreshenv
 npm install -g @angular/cli
 New-Item -ItemType directory -Path C:\repos
+.\Install-VSCode.ps1
